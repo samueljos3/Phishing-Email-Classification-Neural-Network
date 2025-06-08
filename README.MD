@@ -43,6 +43,3 @@ Por isso, mesmo com uma arquitetura simples de rede neural e uma vetorização b
 
 - Os modelos do w2v e da rede neural (gerados pelos notebooks) são salvos na pasta "models" para serem utilizados na aplicação do streamlit.
 - Na aplicação do streamlit, a entrada do usuário é processada e tratada pelo "data_processing.py", utilizando o w2v salvo em "modelos". Depois disso, o resultado é processado pelo modelo de rede neural salvo em pkl em "modelos".
-
-
-# Phishing-Email-Classification-Neural-Network
